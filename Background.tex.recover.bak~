@@ -1,0 +1,51 @@
+\documentclass[12pt]{article}
+\usepackage[margin = 2.4cm]{geometry} % For margins of 3cm
+\usepackage{graphicx}
+\usepackage{float} % For H float position
+\usepackage{gensymb} % For some symbols
+\usepackage{amsfonts, amssymb, amsmath} % All three for maths symbols
+\usepackage[export]{adjustbox} % For figure frames
+\setlength{\parskip}{6pt} % To make nice looking paragraph spacing
+\usepackage[export]{adjustbox} % For figure frames
+\usepackage{rotating}
+\usepackage[section]{placeins}
+\usepackage{setspace} % For double spacing
+\usepackage{pdfpages} % Allows including PDFs
+\usepackage[sort&compress]{natbib} % bibliographies
+\doublespacing
+
+\title{RHEP background}
+\date{}
+
+\begin{document}
+	\maketitle
+\paragraph{Miller's syndrome}
+~\\ Miller's syndrome is rare autosomal recessive disoder characterised by craniofacial and postaxial limb deformities. Patients with Miller's syndrome present with severe micrognathia, cleft lip and/or palate, hypoplasia or aplasia of the posterior elements of the limbs. Normal intelligence is typical and internal malformations are rare.\\
+Compund heterzygous missense mutations in the protein coding regeions of the \textit{DHODH} were identified as the cause of Miller's syndrome using whole-exome sequencing. \textit{DHODH} gene contains nine exons that encode a 43-kDa protein dehydroorotate dehydrogenase (DHODH). DHODH is a key enzyme in the de novo pyrimdine synthesis and  localises in the inner mitochondrial membrane. DHDOH catalyses the oxidation of DHO to orotate. A total of 14 different mutations in the coding region of DHODH, including 2 nonsense mutations, have been reported in Miller's syndrome, from exon 2 to exon 9. The allele c.403C>T;p.R135C has been reported in 3 families, and one indiviual. 
+
+Loss of the enzymatic activity of DHODH as the cause of Miller's syndrome is provided by the teratogenic effect of specific DHODH inhibitors in mouse embryos. Additionally, enzymatic assays of Miller's syndrome based mutations of have led to protein instability and loss of DHODH activity.
+
+
+ Embryos exposed to leflunomide show a highly penetrat limb and craniofacial malformations. Additionally, enzymatic assays 
+
+Additionally, Rainger et al showed used In vitro DHODH enzymatic assays to quantitate the loss of enzymatic function of all 11 missense mutations found in Miller's syndrome patients. Each of the Miller's syndrome associated alleles tested displated significantly reduced actvity compared with the wild-type human protein.
+
+ assays to show thata te DHODH missense mutations showed reduced growth compared to wild-type DHODH. 
+
+identified compound heteozygous missense mutations in the protein coding regions of the \textit{DHODH} gene (illustrated in Figure 1). .
+
+Analysis of \textit{Dhodh} expression in mouse embryo showed spatio-temporal specific activity in pharyngeal arches and limb-buds, precursors to tissues affected in MS indicating DHODH mutation may specifically affect the embryo.
+
+
+Leflunomide (Arava), and its metabolite teriflunomide have been used, in various studies, to inhibit DHODH. Diseases such as rheumatoid and psoriatic arthritis, as well as multiple sclerosis have been treated with the aid of leflunomide [150,152]. The use of DHODH inhibitors leads to the impairment of pyrimidine synthesis, and causes mitochondrial dysfunction causing the depletetion of pyrimdine neucleotide pool, and generation of reactive oxygen species, respectivetly. Subsequently, these effects contribute to an increase in p53 levels.
+
+The effect of p53 has been explored in Treacher-Collins syndrome, another craniofacial disoder. Trp53 knock-out mice
+
+It is worth noting that studies of teratogenicity of leflunomide in mice showed a reduction in fetal viability and an increased incidence of multiple external, skeletal, and visceral malformations [153], common features of a disorder referred as to as Miller syndrome, a rare genetic abnormality described by craniofacial malformations together with abnormalities of the arms, hands and/or feet [154–157]. Those findings serendipitously allowed researchers to link biallelic mutations in the gene that encodes DHODH to Miller syndrome, also known as Genee-Wiedemann syndrome, Wildervanck-Smith syndrome, or post axial acrofacial dystosis (POADS). The data compiled by Rainger and collaborators suggest that DHODH activity, and consequently pyrimidine biosynthesis, is essential throughout human and mammalian facial and limb development, and deficiency could present as the clinical characteristics of Miller syndrome, or even embryonic lethality 
+~\\ DHODH inhibition has been used in various auto-immune therapy and cancer therapy studies.  The inhibition also contributes to increased levels of p53. p53 is a global transcription factor with roles in apopotsis, as a transcription regulator etc etc. The effects of p53 in craniofacial development has mainly been explored in the Treacher-Collins syndrome (TCS) 
+
+The effect of p53 has been explored in Treacher-Collins syndrome (TCS), another craniofacial disorder. Trp53 knock-out in TCS mouse models ameliorated the craniofacial anomalies showing that p53 plays a role TCS pathology. These observations indicate that p53 over-expression in embryo leads to craniofacial abnormalities. \textit{DHODH} mutations may cause p53 up-regulation either via pyrimidine deficiency, mitochondrial dysfunction or in combination during embryonic development. 
+
+
+
+	\end{document}
