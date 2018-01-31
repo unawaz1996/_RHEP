@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: a1654797_finalrhep.aux
+The style file: apa.bst
+Database file #1: references/references-2.bib.bib
+Repeated entry---line 340 of file references/references-2.bib.bib
+ : @article{berman2008metastatic
+ :                              ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 460 of file references/references-2.bib.bib
+ :  
+ :  year = "2018"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 465 of file references/references-2.bib.bib
+ :  
+ :  Title = "\emph{Phenotype Associations for Dhodh}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in p53sp7
+Warning--empty year in mouse
+Warning--there's a number but no volume in thymiakou2011detection
+Warning--empty year in Zheng
+You've used 47 entries,
+            1940 wiz_defined-function locations,
+            779 strings with 15586 characters,
+and the built_in function-call counts, 23267 in all, are:
+= -- 2158
+> -- 1443
+< -- 7
++ -- 528
+- -- 522
+* -- 2356
+:= -- 4122
+add.period$ -- 138
+call.type$ -- 47
+change.case$ -- 480
+chr.to.int$ -- 47
+cite$ -- 51
+duplicate$ -- 654
+empty$ -- 1330
+format.name$ -- 575
+if$ -- 4313
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 45
+newline$ -- 235
+num.names$ -- 141
+pop$ -- 396
+preamble$ -- 1
+purify$ -- 481
+quote$ -- 0
+skip$ -- 496
+stack$ -- 0
+substring$ -- 1543
+swap$ -- 100
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 282
+warning$ -- 4
+while$ -- 168
+width$ -- 0
+write$ -- 602
+(There were 3 error messages)
